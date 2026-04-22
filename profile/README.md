@@ -4,7 +4,7 @@ Mirasen builds structured chess learning tools and systems.
 
 ## Products
 
-- **Chess Lore** — a workflow-first chess learning system  
+- **Chess Lore** — a workflow-first system for structured chess learning  
   Website: https://mirasen.io/chess-lore
 
 - **Chessboard** — an open-source chessboard platform for real chess interaction  
