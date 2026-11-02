@@ -1,19 +1,20 @@
-# Mirasen
+# mirasen
 
-Mirasen builds structured chess learning tools and systems.
+mirasen builds open-source libraries for chess interfaces and npm license policy.
 
-## Products
+## Libraries
 
-- **Chess Lore** — a workflow-first system for structured chess learning  
-  Website: https://mirasen.io/chess-lore
+- **[@mirasen/chessboard](https://github.com/mirasen-io/chessboard)** — a framework-agnostic TypeScript chessboard library with built-in interaction, rendering, and extensions.
+  [Try the demos](https://mirasen.k-tarmyshov.workers.dev/chessboard) · [npm](https://www.npmjs.com/package/@mirasen/chessboard)
 
-- **Chessboard** — an open-source chessboard platform for real chess interaction  
-  Website: https://mirasen.io/chessboard  
-  GitHub: https://github.com/mirasen-io/chessboard  
-  npm: https://www.npmjs.com/package/@mirasen/chessboard
+- **[@mirasen/react-chessboard](https://github.com/mirasen-io/react-chessboard)** — a React integration built on the core chessboard library.
+  [npm](https://www.npmjs.com/package/@mirasen/react-chessboard)
 
-## Mirasen Links
+- **[@mirasen/license-gate](https://github.com/mirasen-io/license-gate)** — a local license policy gate for npm workspaces.
+  [npm](https://www.npmjs.com/package/@mirasen/license-gate)
 
-- Website: https://mirasen.io
+## Links
+
+- Library site: https://mirasen.k-tarmyshov.workers.dev
 - GitHub: https://github.com/mirasen-io
 - npm: https://www.npmjs.com/org/mirasen
